@@ -1,0 +1,19 @@
+{
+  "ADMOD": {
+    "DATA": {
+      "SETTING": {
+        "DIE": "2",
+        "WIN": "2",
+        "BACK": "1",
+        "TIME": "100"
+      }
+    },
+    "ISLOAD": "1"
+  },
+  "MAIN": {
+    "ISLOAD": "1",
+    "LEVEL": "1",
+    "BTNVIDEO": "1"
+  },
+  "TESTER": "1"
+}
